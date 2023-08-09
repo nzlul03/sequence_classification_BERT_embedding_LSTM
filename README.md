@@ -1,1 +1,1 @@
-# sequence_classification_BERT_embedding_LSTM
+# Sequence Classification using BERT Embedding and LSTM
